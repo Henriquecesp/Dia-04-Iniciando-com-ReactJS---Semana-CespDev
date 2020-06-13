@@ -1,3 +1,17 @@
+## Nessa live e nesse projeto trouxe como iniciar um projeto react do zero e ensinei os principais conceitos!
+1. Intro ao JSX
+2. Renderizar Elementos
+3. Components e Props
+4. State e Ciclo de vida
+5. React HOOKS, useState & useEffect
+6. Manipulando Eventos
+7. Renderização condicional
+8. Lista e Chaves
+9. Forms
+10. Herança
+### e muito mais!!!!
+
+---
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
